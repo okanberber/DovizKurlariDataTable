@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DovizKurlariDataTable", "DovizKurlariDataTable\DovizKurlariDataTable.csproj", "{9DA0A808-F9AD-4016-A1B5-50019C9ADEB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA0A808-F9AD-4016-A1B5-50019C9ADEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA0A808-F9AD-4016-A1B5-50019C9ADEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA0A808-F9AD-4016-A1B5-50019C9ADEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA0A808-F9AD-4016-A1B5-50019C9ADEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D418E6D-38CA-4691-BC29-F77E1245062B}
+	EndGlobalSection
+EndGlobal
